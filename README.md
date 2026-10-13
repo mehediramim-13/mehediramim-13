@@ -65,14 +65,10 @@ Most of my time goes into **React, Next.js, TypeScript and Tailwind CSS**, and I
   <img src="https://streak-stats.demolab.com/?user=mehediramim-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehediramim-13&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
+### 🟩 Contributions
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mehediramim-13&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-  </a>
+  <img src="https://ghchart.rshah.org/0e75b6/mehediramim-13" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
 ---
@@ -92,41 +88,14 @@ Most of my time goes into **React, Next.js, TypeScript and Tailwind CSS**, and I
 
 # 🌟 Featured Projects
 
-## 📌 Project One
+## 📰 News Channel Web
 
-Short description of what this project does and the problem it solves.
+A modern news channel website built with Next.js, designed to present the latest stories in a clean, fast and responsive interface.
 
-**Tech:** `React` `Tailwind CSS` `JavaScript`
+**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS`
 
-🌐 **Live Demo:** [your-live-link.com](https://your-live-link.com)
-💻 **Source Code:** [github.com/mehediramim-13/project-one](https://github.com/mehediramim-13/project-one)
-
----
-
-## 📌 Project Two
-
-Short description of what this project does and the problem it solves.
-
-**Tech:** `Next.js` `TypeScript` `CSS`
-
-**Key Features:**
-- ✅ Feature one
-- ✅ Feature two
-- ✅ Fully responsive design
-
-🌐 **Live Demo:** [your-live-link.com](https://your-live-link.com)
-💻 **Source Code:** [github.com/mehediramim-13/project-two](https://github.com/mehediramim-13/project-two)
-
----
-
-## 📌 Project Three
-
-Short description of what this project does and the problem it solves.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-🌐 **Live Demo:** [your-live-link.com](https://your-live-link.com)
-💻 **Source Code:** [github.com/mehediramim-13/project-three](https://github.com/mehediramim-13/project-three)
+🌐 **Live Demo:** [project-news-channel-web.vercel.app](https://project-news-channel-web.vercel.app)
+💻 **Source Code:** [github.com/mehediramim-13/project-news-channel-web](https://github.com/mehediramim-13/project-news-channel-web)
 
 ---
 
