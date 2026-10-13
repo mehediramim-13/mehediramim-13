@@ -102,11 +102,11 @@ A modern news channel website built with Next.js, designed to present the latest
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="www.linkedin.com/in/md-mehedi-hasan-ramim">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:fuegoramim13@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
   </a>
 </p>
