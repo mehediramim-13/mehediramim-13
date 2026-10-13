@@ -138,7 +138,7 @@ Most of my time goes into <b>React, Next.js, TypeScript and Tailwind CSS</b>, an
         <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
       </p>
       <p>
-        <a href="https://project-news-channel-web.vercel.app">
+        <a href="https://project-news-channel24-web.vercel.app/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge" alt="Live Demo" />
         </a>
         <a href="https://github.com/mehediramim-13/project-news-channel-web">
