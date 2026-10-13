@@ -84,25 +84,22 @@ Most of my time goes into <b>React, Next.js, TypeScript and Tailwind CSS</b>, an
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=mehediramim-13&show_icons=true&hide_border=false&count_private=true&border_radius=14&border_color=1e3a8a&bg_color=0b1730&title_color=38bdf8&icon_color=2563eb&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediramim-13&layout=donut-vertical&langs_count=6&border_radius=14&hide_border=false&border_color=1e3a8a&bg_color=0b1730&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="650" src="https://github-readme-stats.vercel.app/api?username=mehediramim-13&show_icons=true&hide_border=false&count_private=true&border_radius=14&border_color=1e3a8a&bg_color=0b1730&title_color=38bdf8&icon_color=2563eb&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehediramim-13&border_radius=14&background=0B1730&border=1E3A8A&stroke=1E3A8A&ring=38BDF8&fire=2563EB&currStreakNum=FFFFFF&currStreakLabel=38BDF8&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B9BB4" alt="GitHub Streak" />
+  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediramim-13&layout=compact&langs_count=8&border_radius=14&hide_border=false&border_color=1e3a8a&bg_color=0b1730&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="650" src="https://streak-stats.demolab.com/?user=mehediramim-13&border_radius=14&background=0B1730&border=1E3A8A&stroke=1E3A8A&ring=38BDF8&fire=2563EB&currStreakNum=FFFFFF&currStreakLabel=38BDF8&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B9BB4" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">🟩 Contributions</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehediramim-13&bg_color=0b1730&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true&radius=14" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/0e75b6/mehediramim-13" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
 <br/>
@@ -138,7 +135,7 @@ Most of my time goes into <b>React, Next.js, TypeScript and Tailwind CSS</b>, an
         <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
       </p>
       <p>
-        <a href="https://project-news-channel24-web.vercel.app/">
+        <a href="https://project-news-channel-web.vercel.app">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge" alt="Live Demo" />
         </a>
         <a href="https://github.com/mehediramim-13/project-news-channel-web">
