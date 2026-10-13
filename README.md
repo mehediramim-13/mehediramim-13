@@ -1,3 +1,6 @@
+<p align= "center">
+<img src="/banner.png" alt="Profile Banner">
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+MD+Mehedi+Hasan;Web+Developer;React+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+clean+web+apps" alt="Typing SVG" />
 </p>
